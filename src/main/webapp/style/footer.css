@@ -1,0 +1,104 @@
+@charset "UTF-8";
+
+/* footer */
+.main-footer {
+	position: absolute;
+	width: 100%;
+	height: 400px;
+	font-size: 12px;
+	font-weight: 200;
+	color: #fff;
+	background: black;
+	margin-bottom: 0;
+}
+
+.main-footer_inner {
+	width: 100%;
+	max-width: 1565px;
+	padding: 40px 0 30px 76px;
+}
+
+.main-footer_left {
+	float: left;
+}
+
+.main-footer_title {
+	font-size: 27px;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+.main-footer_company {
+	font-size: 15px;
+}
+
+.main-footer_copy {
+	margin-top: 20px;
+	color: #787878;
+}
+
+em {
+	font-style: normal;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.main-footer_right {
+	float: right;
+}
+
+.footer-btns {
+	padding-top:20px;
+	padding-left:90px;
+}
+
+.btn-footer {
+	cursor:pointer;
+	border: none;
+	background: black;
+	position: relative;
+	display: inline-block;
+	min-width: 70px;
+	height: 36px;
+	color: #fff;
+	vertical-align: middle;
+	margin-left: 11px;
+	padding: 0 6px;
+	font-weight: 300;
+	text-align: center;
+}
+
+.main-footer_customer {
+	text-align: right;
+	font-size: 13px;
+	margin-top: 50px;
+	padding-right: 50px;
+}
+
+.label {
+	font-size:17px;
+	font-weight: 500;
+	padding-right: 6px;
+}
+.label2 {
+	font-size:19px;
+	font-weight: 600;
+	padding-right: 6px;
+}
+.label3 {
+	font-size:18px;
+	font-weight: 500;
+	padding-right: 6px;
+}
+input[type="email"] {
+    width: 342px;
+    height: 14px;
+    padding: 12px 0 14px 20px;
+    font-size: 14px;
+    border: 0;
+    line-height: 14px;
+    vertical-align: middle;
+}
+/* footer 끝 */
